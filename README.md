@@ -1,10 +1,10 @@
-#Blogposts!
+# Blogposts!
 
 Are you wandering off with your ideas and want to put it in a blog? Well, heres a markdown blog post website made just for you!
 
 This website is made using MERN stack, namely - MongoDB, Express.js, React.js and Node.js.
 
-##Installation and deployment
+## Installation and deployment
 
 1. Make sure that you clone this repository on your local machine.
 
